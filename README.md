@@ -1,4 +1,4 @@
-# 🖥️ Desarrollo Web en Entorno Servidor (DWES)
+#  Desarrollo Web en Entorno Servidor (DWES)
 
 > Repositorio personal con las actividades, prácticas y proyectos del módulo de DWES.
 
@@ -8,7 +8,7 @@
 | **Ciclo**             | 2.º Desarrollo de Aplicaciones Web (DAW) |
 | **Curso académico**   | 2026/2027                                |
 
-## 📖 Sobre el módulo
+##  Sobre el módulo
 
 El módulo de **Desarrollo Web en Entorno Servidor (DWES)** se centra en crear aplicaciones web dinámicas con tecnologías que se ejecutan en el servidor.
 
@@ -21,7 +21,7 @@ A lo largo del curso trabajaremos con:
 
 Este repositorio irá creciendo con las actividades, prácticas y proyectos que desarrolle durante el curso.
 
-## 📚 Unidades didácticas
+##  Unidades didácticas
 
 | UD | Nombre                             |
 | -- | ---------------------------------- |
@@ -34,7 +34,7 @@ Este repositorio irá creciendo con las actividades, prácticas y proyectos que 
 | 7  | Aplicaciones Web Dinámicas (REST)  |
 | 8  | Híbridas                           |
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 * PHP y POO
 * HTML, CSS y JavaScript
@@ -43,7 +43,7 @@ Este repositorio irá creciendo con las actividades, prácticas y proyectos que 
 * APIs REST y JSON
 * Git y GitHub
 
-## 📁 Organización del repositorio
+##  Organización del repositorio
 
 Cada unidad didáctica tiene su propia carpeta, donde se guardan sus actividades, evidencias y prácticas:
 
@@ -59,6 +59,6 @@ dwes/
 └── ud08-hibridas/
 ```
 
-## ✍️ Notas
+##  Notas
 
 Este repositorio tiene un fin educativo y refleja mi progreso durante el curso, por lo que el contenido puede cambiar a medida que avance el módulo.

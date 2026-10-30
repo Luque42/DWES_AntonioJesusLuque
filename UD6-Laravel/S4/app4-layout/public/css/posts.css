@@ -1,0 +1,19 @@
+.tarjeta h2 {
+    margin-top: 0;
+    color: #a7cf15;
+}
+
+.tarjeta a {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #0cbe23;
+    font-weight: bold;
+}
+.tarjeta {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.tarjeta:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}

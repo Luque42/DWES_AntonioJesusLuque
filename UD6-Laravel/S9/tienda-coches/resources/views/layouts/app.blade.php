@@ -11,15 +11,7 @@
 <nav class="navbar navbar-expand navbar-dark bg-dark mb-4">
     <div class="container">
         <a class="navbar-brand" href="{{ route('cars.index') }}">🚗 AutoTienda</a>
-        <ul class="navbar-nav me-auto">
-            <li class="nav-item">
-                <a class="nav-link {{ request()->routeIs('cars.index') ? 'active' : '' }}"
-                   href="{{ route('cars.index') }}">Catálogo</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link {{ request()->routeIs('cars.create') ? 'active' : '' }}"
-                   href="{{ route('cars.create') }}">Nuevo coche</a>
-            </li>
+        <ul class="navbar-nav me-auto">            
         </ul>
     </div>
 </nav>
